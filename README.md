@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Probability
+- 🔭 I’m currently working on developing computational workshops
 - 🌱 I’m currently learning Git
 - 👯 I’m looking to collaborate on Educational Projects, Academic Research, and Development of Instruction Materials
 - 🤔 I’m looking for help with ... 
