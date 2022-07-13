@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on developing computational workshops
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Educational Projects, Academic Research, and Development of Instruction Materials
